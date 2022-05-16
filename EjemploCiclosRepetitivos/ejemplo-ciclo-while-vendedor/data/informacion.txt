@@ -1,7 +1,21 @@
 Datos de Vendedor
-Nombre: René 
-Edad: 38
-Salario mínimo: 100,00
-Número de autos: 1
-Pago mensual: 250,00
+Nombre: Tais
+Edad: 18
+Salario mínimo: 450,00
+Número de autos: 3
+Pago mensual: 900,00
+
+Datos de Vendedor
+Nombre: Egdar
+Edad: 18
+Salario mínimo: 450,00
+Número de autos: 3
+Pago mensual: 900,00
+
+Datos de Vendedor
+Nombre: Ronin
+Edad: 18
+Salario mínimo: 450,00
+Número de autos: 4
+Pago mensual: 1050,00
 
