@@ -17,6 +17,10 @@ public class Ejecutor {
         Profesor profesor2 = new Profesor("Gregory Walsh", "nombramiento");
         Profesor profesor3 = new Profesor("Kevin Page", "nombramiento");
         
+        c1.establecerProfesor(profesor1);
+        c1.establecerProfesor(profesor2);
+        c1.establecerProfesor(profesor3);
+        
                 
         Calificacion [] lista = {c1, c2, c3}; 
         
